@@ -75,3 +75,19 @@ body{
 }
 
 .actions button:hover{ background:#121d3a; }
+
+.footer{
+  margin-top:20px;
+  text-align:center;
+  font-size:14px;
+  opacity:0.7;
+}
+
+.footer a{
+  color:#e8ecff;
+  text-decoration:none;
+}
+
+.footer a:hover{
+  text-decoration:underline;
+}
